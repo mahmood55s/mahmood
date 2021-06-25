@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.dir_rtl{
+    direction: rtl;
+}
+.bgcol_footer{
+    background-color: rgb(164 162 162 / 19%);
+  }
